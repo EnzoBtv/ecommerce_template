@@ -1,1 +1,1 @@
-# ecommerce_template
+# Ecommerce Template
